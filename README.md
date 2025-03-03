@@ -9,9 +9,9 @@
 - 📧 Email: gard5454@gmail.com
 
 #### ✨ 기술 스택  
-- 💻 **응용프로그램**: VMware, vShpere, VirtualBox, GNS3, Xshell, VSCode
-- ☁ **Cloud**: AWS, Kubernetes(CKA), Docker
-- 🛠 **그 외**: Linux, Rocky Linux, ubuntu, Git, Git hub, Markdown
+- 💻 **응용프로그램**: VMware, vShpere, VirtualBox, GNS3, Packet tracer, Xshell, VSCode
+- ☁ **Cloud**: AWS, Kubernetes, Docker, GCP
+- 🛠 **그 외**: Linux, Rocky Linux, ubuntu, Git, Git hub, PowerShell, Shell Script, Markdown
 
 #### 🎓 교육기관연수  
 | 기관명 | 과정명 | 기간 | 비고 |
