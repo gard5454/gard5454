@@ -12,6 +12,5 @@
 - 💻 **응용프로그램**: VMware, vShpere, VirtualBox, GNS3, Xshell, VSCode
 - ☁ **Cloud**: AWS, Kubernetes(CKA), Docker
 - 🛠 **그 외**: Linux, Rocky Linux, ubuntu, Git, Git hub, Markdown
-- 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myusername&show_icons=true)
