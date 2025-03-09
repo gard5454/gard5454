@@ -29,6 +29,6 @@
 - 📂 [첨부파일1](./eks.pdf) AWS-EKS를 기반하여 보안,가용성,트래픽 관리를 고려한 가상화 구현  
 - 📂 [첨부파일2](./aws.pdf) AWS 클라우드 기반 퍼블릭/프라이빗 서버 환경 구성  
 - 📂 [첨부파일3](./vsphere.pdf) VMware vSphere를 이용한 가상화 구현
-  
+- 📂 [첨부파일4](/linux.pdf) Rocky Linux 9.4 기반 서버 구성 및 서비스 설정 운영
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myusername&show_icons=true)
