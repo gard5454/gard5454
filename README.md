@@ -10,7 +10,8 @@
 
 ### ✨ 기술 스택  
 - 💻 **응용프로그램**  
-  ![VMware](https://img.shields.io/badge/VMware-61DAFB?style=for-the-badge&logo=vmware&logoColor=white) ![vSphere](https://img.shields.io/badge/vSphere-1D3C6C?style=for-the-badge&logo=vmware&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-6930C3?style=for-the-badge&logo=virtualbox&logoColor=white) ![GNS3](https://img.shields.io/badge/GNS3-F26522?style=for-the-badge&logo=gns3&logoColor=white) ![PacketTracer](https://img.shields.io/badge/Packet_Tracer-6E7A91?style=for-the-badge&logo=cisco&logoColor=white) ![Xshell](https://img.shields.io/badge/Xshell-232D39?style=for-the-badge&logo=xshell&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![VMware](https://img.shields.io/badge/VMware-61DAFB?style=for-the-badge&logo=vmware&logoColor=white) ![vSphere](https://img.shields.io/badge/vSphere-1D3C6C?style=for-the-badge&logo=vmware&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-6930C3?style=for-the-badge&logo=virtualbox&logoColor=white) ![GNS3](https://img.shields.io/badge/GNS3-F26522?style=for-the-badge&logo=gns3&logoColor=white) ![PacketTracer](https://img.shields.io/badge/Packet_Tracer-6E7A91?style=for-the-badge&logo=cisco&logoColor=white) ![Xshell](https://img.shields.io/badge/Xshell-232D39?style=for-the-badge&logo=xshell&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
+
 
   
 - ☁ **Cloud**  
