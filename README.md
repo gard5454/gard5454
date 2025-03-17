@@ -26,10 +26,11 @@
 | 대우능력개발원 | 클라우드기반 정보시스템 구축 전문가 양성 | 2024.09 ~ 2025.03 | 수료예정 |
 
 ### 🔥 프로젝트  
-
-- 📂 [첨부파일1](./eks.pdf) AWS-EKS를 기반하여 보안,가용성,트래픽 관리를 고려한 가상화 구현  
-- 📂 [첨부파일2](./aws.pdf) AWS 클라우드 기반 퍼블릭/프라이빗 서버 환경 구성  
+- 📂 [첨부파일1](/linux.pdf) Rocky Linux 9.4 기반 서버 환경 구성 및 서비스 구현
+- 📂 [첨부파일2](./network.pdf) 물리적 구성도 및 논리적 구성도를 기반으로 네트워크 설계 및 보안 정책 구성   
 - 📂 [첨부파일3](./vsphere.pdf) VMware vSphere를 이용한 가상화 구현
-- 📂 [첨부파일4](/linux.pdf) Rocky Linux 9.4 기반 서버 환경 구성 및 서비스 구현
-   
+- 📂 [첨부파일4](./aws.pdf) AWS 클라우드 기반 퍼블릭/프라이빗 서버 환경 구성  
+- 📂 [첨부파일5](./eks.pdf) AWS-EKS를 기반하여 보안,가용성,트래픽 관리를 고려한 가상화 구현
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myusername&show_icons=true)
